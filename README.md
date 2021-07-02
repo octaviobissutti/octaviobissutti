@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @octaviobissutti.
 - I'am from Rosario, Argentina. 
-- 👀 I’m a Front-end Developer.
+- 👀 I’m a Full Stack Developer.
 
 
 
