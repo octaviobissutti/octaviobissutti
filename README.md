@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Octavio Bissutti</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
+<img align='right' src="https://media3.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250">
 
 
 <h3 align="left">Languages and Tools:</h3>
