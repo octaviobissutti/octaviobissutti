@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Octavio Bissutti</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
-<img align='right' src="https://giphy.com/gifs/Standsome-standing-desk-standsome-stehschreibtisch-SXOgX1ljLUyv9UDXBq" width="250">
+<img align='right' src="https://media.giphy.com/media/5UKCIewuYDUUiWiik6/giphy.gif" width="250">
 
 
 <h3 align="left">Languages and Tools:</h3>
