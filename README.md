@@ -59,7 +59,7 @@ Me encanta el trabajo en equipo, resolver problemas, aprender nuevas tecnología
  
 <div><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=octaviobissutti&show_icons=true&theme=dark&locale=es" alt="octaviobissutti" /></p></div>
 
-<div><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=octaviobissutti&show_icons=true&theme=dark&locale=es&layout=compact" alt="oti" /></p></div>
+   <div><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=octaviobissutti&show_icons=true&theme=dark&locale=es&layout=compact" alt="oti" /></p></div>
 
   ---
 
