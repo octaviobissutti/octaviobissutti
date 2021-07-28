@@ -15,7 +15,7 @@ Me encanta el trabajo en equipo, resolver problemas, aprender nuevas tecnología
 - 📚  Mis mejores habilidades: **Javascript, React, Redux, Node Js, Sequelize y Express**.
 - 🌱 Tecnologías que me gustaría aprender: **React Native, Python, Next Js**
 - 📫 Contacto: **octaviobissutti3@gmail.com**
-- 📚 Proyectos en mi [Github](https://github.com/octaviobissutti)  
+- 📚 Proyectos en mi [Github](https://github.com/octaviobissutti/PI-Pokemon)  
 
 
 
