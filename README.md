@@ -64,7 +64,7 @@ Me encanta el trabajo en equipo, resolver problemas, aprender nuevas tecnología
   ---
 
   <h3>Pokemon</h3>
- <a href="https://github.com/octaviobissutti/PI-Pokemon">
+ <a href="https://github.com/octaviobissutti/PI-Pokemon-FT-14a">
  <img align="center" src="https://github-readme-stats-nine-flax.vercel.app/api/pin?username=octaviobissutti&repo=PI-Pokemon&show_owner=true" />
 </a>
 
