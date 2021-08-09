@@ -25,7 +25,7 @@ Me encanta el trabajo en equipo, resolver problemas, aprender nuevas tecnología
 <p align="left">
 <a href="https://twitter.com/@otibissutti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@otibissutti" height="30" width="40" /></a>
 <a href="https://fb.com/octaviobissutti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="octaviobissutti" height="30" width="40" /></a>
-<a href="https://instagram.com/@otibbissutti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@otibbissutti" height="30" width="40" /></a>
+
 </p>
 
 
