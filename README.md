@@ -69,10 +69,7 @@ Me encanta el trabajo en equipo, resolver problemas, aprender nuevas tecnología
  <img align="center" src="https://github-readme-stats-nine-flax.vercel.app/api/pin?username=octaviobissutti&repo=PI-Pokemon&show_owner=true" />
 </a>
    
-     <h3>Ecommerce-fast-food</h3>
- <a href="https://github.com/octaviobissutti/ecommerceFastFood">
- <img align="center" src="https://pensive-northcutt-1d0d1a.netlify.app/" />
-</a>
+
 <!---
 octaviobissutti/octaviobissutti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
