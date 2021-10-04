@@ -11,7 +11,6 @@ Soy Full Stack Developer con preferencia hacia el Front-End 👨‍💻.
 Me encanta el trabajo en equipo, resolver problemas, aprender nuevas tecnologías y superar mis conocimientos en las que utilizo a diario: JavaScript, React, Redux, HTML5, CSS3, Node Js, Express, Scrum, Sequelize, PostgreSQL.
 
 ---
-- 🔭 Actualmente estoy trabajando en un un proyecto grupal junto a siete compañeros, construyendo un e-commerce.
 - 📚  Mis mejores habilidades: **Javascript, React, Redux, Node Js, Sequelize y Express**.
 - 🌱 Tecnologías que me gustaría aprender: **React Native, Python, Next Js**
 - 📫 Contacto: **octaviobissutti3@gmail.com**
