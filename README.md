@@ -7,11 +7,11 @@
 </br>
 
 
-Soy Full Stack Developer con preferencia hacia el Front-End 👨‍💻. 
-Me encanta el trabajo en equipo, resolver problemas, aprender nuevas tecnologías y superar mis conocimientos en las que utilizo a diario: JavaScript, React, Redux, HTML5, CSS3, Node Js, Express, Scrum, Sequelize, PostgreSQL.
+Soy Front-End developer👨‍💻. 
+Me encanta el trabajo en equipo, resolver problemas, aprender nuevas tecnologías y superar mis conocimientos en las que utilizo a diario: JavaScript, React, Redux, HTML5, CSS3.
 
 ---
-- 📚  Mis mejores habilidades: **Javascript, React, Redux, Node Js, Sequelize y Express**.
+- 📚  Mis mejores habilidades: **Javascript, React, Redux**.
 - 🌱 Tecnologías que me gustaría aprender: **React Native, Python, Next Js**
 - 📫 Contacto: **octaviobissutti3@gmail.com**
 - 📚 Proyectos en mi [Github](https://github.com/octaviobissutti/PI-Pokemon)  
