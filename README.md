@@ -7,12 +7,14 @@
 </br>
 
 
-Soy Front-End developer👨‍💻. 
-Me encanta el trabajo en equipo, resolver problemas, aprender nuevas tecnologías y superar mis conocimientos en las que utilizo a diario: JavaScript, React, Redux, HTML5, CSS3.
+Soy Full Stack Web developer👨‍💻. 
+Me encanta el trabajo en equipo, resolver problemas, aprender nuevas tecnologías y superar mis conocimientos en las que utilizo a diario: JavaScript, React, Redux, HTML5, CSS3, Node Js, Express, SQL, PostgreSQL.
 
 ---
+- Actualmente trabajando como desarrollador web en Stefanini LATAM.
 - 📚  Mis mejores habilidades: **Javascript, React, Redux**.
 - 🌱 Tecnologías que me gustaría aprender: **React Native, Python, Next Js**
+- Aprendiendo: C#, Angular.
 - 📫 Contacto: **octaviobissutti3@gmail.com**
 - 📚 Proyectos en mi [Github](https://github.com/octaviobissutti/PI-Pokemon)  
 
